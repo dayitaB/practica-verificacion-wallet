@@ -1,0 +1,11 @@
+target/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de Java/Maven locales
+*.iml
+.idea/
+.classpath
+.project
+.settings/
